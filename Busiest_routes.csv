@@ -1,0 +1,11 @@
+,ROUTE,NUMBER_OF_FLIGHTS,ORIGIN,ORIGIN_CITY_NAME,ORIGIN_TYPE,ORIGIN_AIRPORT_NAME,ORIGIN_LAT,ORIGIN_LONG,DESTINATION,DEST_CITY_NAME,DEST_TYPE,DEST_AIRPORT_NAME,DEST_LAT,DEST_LONG
+2136,LAX-SFO,8333,SFO,"San Francisco, CA",large_airport,San Francisco International Airport, 37.61899948120117,-122.375,LAX,"Los Angeles, CA",large_airport,Los Angeles International Airport, 33.94250107,-118.4079971
+2177,LGA-ORD,7146,ORD,"Chicago, IL",large_airport,Chicago O'Hare International Airport, 41.9786,-87.9048,LGA,"New York, NY",large_airport,La Guardia Airport, 40.77719879,-73.87259674
+2041,LAS-LAX,6506,LAX,"Los Angeles, CA",large_airport,Los Angeles International Airport, 33.94250107,-118.4079971,LAS,"Las Vegas, NV",large_airport,McCarran International Airport, 36.08010101,-115.1520004
+1986,JFK-LAX,6299,LAX,"Los Angeles, CA",large_airport,Los Angeles International Airport, 33.94250107,-118.4079971,JFK,"New York, NY",large_airport,John F Kennedy International Airport, 40.63980103,-73.77890015
+2135,LAX-SEA,4992,SEA,"Seattle, WA",large_airport,Seattle Tacoma International Airport, 47.449001,-122.308998,LAX,"Los Angeles, CA",large_airport,Los Angeles International Airport, 33.94250107,-118.4079971
+541,BOS-LGA,4816,LGA,"New York, NY",large_airport,La Guardia Airport, 40.77719879,-73.87259674,BOS,"Boston, MA",large_airport,General Edward Lawrence Logan International Airport, 42.36429977,-71.00520325
+1751,HNL-OGG,4793,OGG,"Kahului, HI",medium_airport,Kahului Airport, 20.8986,-156.429993,HNL,"Honolulu, HI",large_airport,Daniel K Inouye International Airport, 21.32062,-157.924228
+2583,PDX-SEA,4771,SEA,"Seattle, WA",large_airport,Seattle Tacoma International Airport, 47.449001,-122.308998,PDX,"Portland, OR",large_airport,Portland International Airport, 45.58869934,-122.5979996
+188,ATL-MCO,4707,MCO,"Orlando, FL",large_airport,Orlando International Airport, 28.429399490356445,-81.30899810791016,ATL,"Atlanta, GA",large_airport,Hartsfield Jackson Atlanta International Airport, 33.6367,-84.428101
+184,ATL-LGA,4589,LGA,"New York, NY",large_airport,La Guardia Airport, 40.77719879,-73.87259674,ATL,"Atlanta, GA",large_airport,Hartsfield Jackson Atlanta International Airport, 33.6367,-84.428101
